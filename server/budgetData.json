@@ -4,7 +4,7 @@
     "myBudget": [
     {
         "title": "Eat Out",
-        "budget" : "25"
+        "budget" : "75"
     },
 
     {
@@ -34,7 +34,7 @@
 
     {
         "title": "Stock Investment",
-        "budget" : "50"
+        "budget" : "150"
     }]
 }
 
